@@ -1,6 +1,6 @@
 # Continuous Thought Machine
 
-A machine learning project for experimenting with continuous learning on the MNIST dataset.
+An implementation of the paper [Continuous Thought Machines (Darlow et al., 2025)](https://arxiv.org/abs/2505.05522) on MNIST dataset. I also wrote an [accompanying blog](https://open.substack.com/pub/bhargavborah/p/continuous-thought-machines-the-beginning?r=6ah8jl&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) sharing my thoughts and implementation details. The references I used besides the original paper are the [original blog](https://sakana.ai/ctm/) on the paper released by Sakana.ai, the [official GitHub repo](https://github.com/SakanaAI/continuous-thought-machines?tab=readme-ov-file), and the [interactive demonstration](https://pub.sakana.ai/ctm/).
 
 ## Installation
 
